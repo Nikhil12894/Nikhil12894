@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikhil12894
-- 👀 I’m a Full-stack-developer.
+- 👀 I’m a Java Full-stack-developer.
 - 🌱 I’m currently learning JS & React
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me nalin12894@gmail.com
